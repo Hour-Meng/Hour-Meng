@@ -68,7 +68,7 @@ I enjoy turning ideas into practical solutions and sharing my coding journey thr
 ## 🧩 CodeWar Stats
 
 <p align="center">
-  <img src="![Codewars](https://github.r2v.ch/codewars?user=Hour-Meng&animation=false)" />
+  <img src="![Codewars](https://github.r2v.ch/codewars?user=Hour-Meng&animation=true)" />
 </p>
 
 ---
