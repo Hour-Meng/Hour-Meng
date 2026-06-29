@@ -2,7 +2,7 @@
 <h3 align="center">Welcome to my GitHub profile</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=7E3ACE&center=true&vCenter=true&width=600&lines=Passionate+Developer;Always+Learning+New+Things;Building+and+Sharing+Projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=7E3ACE&center=true&vCenter=true&width=600&lines=Passionate+Developer;Always+Learning+New+Things;Building+and[...]
 </p>
 
 ---
@@ -31,6 +31,7 @@ I enjoy turning ideas into practical solutions and sharing my coding journey thr
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
@@ -52,6 +53,14 @@ I enjoy turning ideas into practical solutions and sharing my coding journey thr
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Hour-Meng&theme=kimbie_dark" />
+</p>
+
+---
+
+## 🧩 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/hour-meng?ext=heatmap" alt="LeetCode Stats" />
 </p>
 
 ---
