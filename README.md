@@ -51,7 +51,7 @@ I enjoy turning ideas into practical solutions and sharing my coding journey thr
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hour-Meng&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Hour-Meng&theme=kimbie_dark" />
 </p>
 
 ---
@@ -68,4 +68,5 @@ I enjoy turning ideas into practical solutions and sharing my coding journey thr
 
 <p align="center">
   <a href="https://github.com/Hour-Meng"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  
 </p>
