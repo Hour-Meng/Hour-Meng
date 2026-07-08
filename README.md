@@ -36,23 +36,28 @@ I enjoy turning ideas into practical solutions and sharing my coding journey thr
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity & Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hour-Meng&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hour-Meng&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hour-Meng&theme=tokyonight" alt="Profile Summary" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Hour-Meng&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hour-Meng&theme=tokyonight" height="180" alt="Repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hour-Meng&theme=tokyonight" height="180" alt="Most commit language" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hour-Meng&theme=tokyonight" height="180" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hour-Meng&theme=tokyonight&utcOffset=8" height="180" alt="Productive time" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🔥 Contribution Graph
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hour-Meng&theme=kimbie_dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hour-Meng&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
