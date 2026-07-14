@@ -2,13 +2,12 @@
 <h3 align="center">Welcome to my GitHub profile</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=7E3ACE&center=true&vCenter=true&width=600&lines=Passionate+Developer;Always+Learning+New+Things;Building+and[...]
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=7E3ACE&center=true&vCenter=true&width=600&lines=Passionate+Developer;Always+Learning+New+Things;Building+Practical+Projects" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🙋‍♂️ Introduction
-
 
 I'm **Hour Meng**, a developer passionate about building useful projects, learning modern technologies, and continuously improving my skills.  
 I enjoy turning ideas into practical solutions and sharing my coding journey through GitHub.
@@ -39,17 +38,11 @@ I enjoy turning ideas into practical solutions and sharing my coding journey thr
 ## 📊 GitHub Activity & Insights
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hour-Meng&theme=tokyonight" alt="Profile Summary" />
+  <img src="https://komarev.com/ghpvc/?username=Hour-Meng&label=Profile%20Views&color=7E3ACE&style=for-the-badge" alt="Profile views" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hour-Meng&theme=tokyonight" height="180" alt="Repos per language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hour-Meng&theme=tokyonight" height="180" alt="Most commit language" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hour-Meng&theme=tokyonight" height="180" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hour-Meng&theme=tokyonight&utcOffset=8" height="180" alt="Productive time" />
+  <img src="https://streak-stats.demolab.com?user=Hour-Meng&theme=tokyonight&hide_border=true" height="180" alt="GitHub streak" />
 </p>
 
 ---
@@ -81,6 +74,7 @@ I enjoy turning ideas into practical solutions and sharing my coding journey thr
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/Hour-Meng"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  
+  <a href="https://github.com/Hour-Meng">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
