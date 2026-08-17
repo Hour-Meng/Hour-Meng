@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Hour Meng</h1>
-<h3 align="center">Welcome to my GitHub profile</h3>
+<p align="center">
+  <img src="./terminal_identity.svg" alt="Terminal Identity" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=7E3ACE&center=true&vCenter=true&width=600&lines=Passionate+Developer;Always+Learning+New+Things;Building+Practical+Projects" alt="Typing SVG" />
