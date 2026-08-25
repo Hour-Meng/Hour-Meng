@@ -43,7 +43,7 @@ I enjoy turning ideas into practical solutions and sharing my coding journey thr
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Hour-Meng&theme=tokyonight&hide_border=true" height="180" alt="GitHub streak" />
+  <img src="./github_streak.svg" height="180" alt="GitHub streak" />
 </p>
 
 ---
@@ -51,7 +51,7 @@ I enjoy turning ideas into practical solutions and sharing my coding journey thr
 ## 🔥 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hour-Meng&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+  <img src="./github_contribution_graph.svg" alt="Contribution Graph" />
 </p>
 
 ---
