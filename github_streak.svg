@@ -1,0 +1,32 @@
+<svg width="495" height="195" xmlns="http://www.w3.org/2000/svg">
+    <style>
+        .title { font-family: 'Segoe UI', Ubuntu, sans-serif; font-weight: 600; font-size: 18px; fill: #70a5fd; }
+        .stat { font-family: 'Segoe UI', Ubuntu, sans-serif; font-weight: 700; font-size: 28px; fill: #bf91f3; }
+        .label { font-family: 'Segoe UI', Ubuntu, sans-serif; font-weight: 400; font-size: 14px; fill: #9aa5ce; }
+        .date { font-family: 'Segoe UI', Ubuntu, sans-serif; font-weight: 400; font-size: 12px; fill: #9aa5ce; opacity: 0.8; }
+    </style>
+    <rect x="0" y="0" width="495" height="195" fill="#1a1b27" rx="15"/>
+    <!-- Total Contributions -->
+    <g transform="translate(80, 40)">
+        <circle cx="0" cy="50" r="40" fill="none" stroke="#38bdae" stroke-width="4" opacity="0.2"/>
+        <circle cx="0" cy="50" r="40" fill="none" stroke="#38bdae" stroke-width="4" stroke-dasharray="250" stroke-dashoffset="0"/>
+        <text x="0" y="45" class="stat" text-anchor="middle" dominant-baseline="middle">1337</text>
+        <text x="0" y="110" class="label" text-anchor="middle">Total Contributions</text>
+    </g>
+
+    <!-- Current Streak -->
+    <g transform="translate(247.5, 40)">
+        <circle cx="0" cy="50" r="40" fill="none" stroke="#38bdae" stroke-width="4" opacity="0.2"/>
+        <circle cx="0" cy="50" r="40" fill="none" stroke="#38bdae" stroke-width="4" stroke-dasharray="250" stroke-dashoffset="0"/>
+        <text x="0" y="45" class="stat" text-anchor="middle" dominant-baseline="middle">42</text>
+        <text x="0" y="110" class="label" text-anchor="middle">Current Streak</text>
+    </g>
+
+    <!-- Longest Streak -->
+    <g transform="translate(415, 40)">
+        <circle cx="0" cy="50" r="40" fill="none" stroke="#38bdae" stroke-width="4" opacity="0.2"/>
+        <circle cx="0" cy="50" r="40" fill="none" stroke="#38bdae" stroke-width="4" stroke-dasharray="250" stroke-dashoffset="0"/>
+        <text x="0" y="45" class="stat" text-anchor="middle" dominant-baseline="middle">100</text>
+        <text x="0" y="110" class="label" text-anchor="middle">Longest Streak</text>
+    </g>
+</svg>
