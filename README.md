@@ -41,7 +41,7 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hour-Meng&show_icons=true&theme=radical" alt="Hour Meng GitHub Stats" />
+  <img src="./assets/github_stats.svg" alt="Hour Meng GitHub Stats" />
 </p>
 <br>
 
