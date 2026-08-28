@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" fill="none">
+  <style>
+    .title { font: 600 13px -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #e6edf3; }
+    .stat-number { font: 700 24px 'Courier New', Courier, monospace; fill: #f0f6fc; }
+    .stat-label { font: 500 11px -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #8b949e; letter-spacing: 0.5px; text-transform: uppercase; }
+    .date-label { font: 400 11px 'Courier New', Courier, monospace; fill: #7d8590; }
+    .streak-active { fill: #3fb950; font-weight: 500; }
+    .card-bg { fill: #0d1117; stroke: #30363d; stroke-width: 1; rx: 8; }
+    .divider { stroke: #21262d; stroke-width: 1; }
+    .window-dot { fill: #30363d; }
+  </style>
+
+  <!-- Card Background -->
+  <rect x="1" y="1" width="493" height="193" class="card-bg"/>
+
+  <!-- Window Header -->
+  <circle cx="20" cy="20" r="4" class="window-dot"/>
+  <circle cx="32" cy="20" r="4" class="window-dot"/>
+  <circle cx="44" cy="20" r="4" class="window-dot"/>
+
+  <text x="60" y="24" class="title">
+    github.com/Hour-Meng &bull; streak-stats
+  </text>
+
+  <line x1="1" y1="40" x2="494" y2="40" class="divider"/>
+
+  <!-- Stat Column 1: Total Contributions -->
+  <g transform="translate(85, 80)">
+    <text x="0" y="0" text-anchor="middle" class="stat-label">Total Contributions</text>
+    <text x="0" y="32" text-anchor="middle" class="stat-number">286</text>
+    <text x="0" y="54" text-anchor="middle" class="date-label">Past 52 Weeks</text>
+  </g>
+
+  <!-- Vertical Divider 1 -->
+  <line x1="165" y1="52" x2="165" y2="155" class="divider"/>
+
+  <!-- Stat Column 2: Current Streak -->
+  <g transform="translate(247, 80)">
+    <text x="0" y="0" text-anchor="middle" class="stat-label">Current Streak</text>
+    <text x="0" y="32" text-anchor="middle" class="stat-number">5 Days</text>
+    <text x="0" y="54" text-anchor="middle" class="date-label streak-active">Aug 23 - Aug 27</text>
+  </g>
+
+  <!-- Vertical Divider 2 -->
+  <line x1="330" y1="52" x2="330" y2="155" class="divider"/>
+
+  <!-- Stat Column 3: Longest Streak -->
+  <g transform="translate(410, 80)">
+    <text x="0" y="0" text-anchor="middle" class="stat-label">Longest Streak</text>
+    <text x="0" y="32" text-anchor="middle" class="stat-number">19 Days</text>
+    <text x="0" y="54" text-anchor="middle" class="date-label">Jun 17 - Jul 5</text>
+  </g>
+
+  <line x1="1" y1="165" x2="494" y2="165" class="divider"/>
+
+  <!-- Footer Info Line -->
+  <text x="20" y="182" class="date-label">
+    14 Repositories &bull; 0 Stars &bull; 1 Forks
+  </text>
+  <text x="475" y="182" text-anchor="end" class="date-label">
+    Synced Live via GitHub API
+  </text>
+</svg>

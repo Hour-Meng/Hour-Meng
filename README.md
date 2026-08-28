@@ -42,16 +42,18 @@ I enjoy turning ideas into practical solutions and sharing my coding journey thr
   <img src="https://komarev.com/ghpvc/?username=Hour-Meng&label=Profile%20Views&color=7E3ACE&style=for-the-badge" alt="Profile views" />
 </p>
 
+<!-- GitHub Streak & Stats -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Hour-Meng&theme=tokyonight&hide_border=true" height="180" alt="GitHub streak" />
+  <img src="./.github/github_streak.svg" alt="GitHub Streak" />
 </p>
 
 ---
 
 ## 🔥 Contribution Graph
 
+<!-- GitHub Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hour-Meng&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+  <img src="./.github/github_activity_graph.svg" alt="GitHub Activity Graph" />
 </p>
 
 ---
