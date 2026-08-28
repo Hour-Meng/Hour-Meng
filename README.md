@@ -44,7 +44,7 @@ I enjoy turning ideas into practical solutions and sharing my coding journey thr
 
 <!-- GitHub Streak & Stats -->
 <p align="center">
-  <img src="./.github/github_streak.svg" alt="GitHub Streak" />
+  <img src=".github/github_streak.svg" alt="GitHub Streak" />
 </p>
 
 ---
@@ -53,7 +53,7 @@ I enjoy turning ideas into practical solutions and sharing my coding journey thr
 
 <!-- GitHub Activity Graph -->
 <p align="center">
-  <img src="./.github/github_activity_graph.svg" alt="GitHub Activity Graph" />
+  <img src=".github/github_activity_graph.svg" alt="GitHub Activity Graph" />
 </p>
 
 ---
