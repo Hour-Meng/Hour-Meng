@@ -22,7 +22,7 @@ I'm a **second-year Software Engineering student at Kirirom Institute of Technol
 
 - 🚀 Passionate about software engineering, system architecture, and automation
 - 🏆 Always learning, competing in hackathons, and meeting other builders
-- 🧠 Big on self-improvement and self-mastery. *"No one can break me but myself."*
+- 🧠 Big on self-improvement and self-mastery.
 - 🏍️ Big fan of cruiser motorcycles (Harley-Davidson, Indian Motorcycle)
 
 ## 🎮 My Roblox journey
